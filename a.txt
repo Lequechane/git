@@ -2,3 +2,4 @@ Teste
 Entendendo o HEAD
 ESta linha foi modificada no ramo Master
 Esta linha foi modificada no ramo Teste
+Aqui a pratica
